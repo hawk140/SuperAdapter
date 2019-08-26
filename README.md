@@ -1,6 +1,6 @@
 # SuperAdapter
 Android RecyclerView多功能集合适配器
-
+https://www.jianshu.com/p/925251337c09
 ## SuperAdapter是什么
 
 SuperAdapter 是对`RecyclerView.Adapter`进行封装并将许多常用功能集成之中的一个Android库。你不需要为每个列表单独去写`ViewHolder`后再声明控件，当构建不需要重用的列表时你甚至不需要单独创建类去继承`RecyclerView.Adapter`定制适配器，只要在`Activity`或`Fragment`中简单写下几行代码即可实现，有效的减化了复写代码的数量。
